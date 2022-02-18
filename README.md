@@ -37,8 +37,6 @@ WELCOME TO MY PROFILE
 
 ![](https://img.shields.io/badge/<AFSHIN_V4U>-<0x1381-H4CK3R>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
-<img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
-
 ![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
 <p align="center">
