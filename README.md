@@ -29,6 +29,7 @@ Encrypt me : SSBhbSBEZXZpbA==
 
 <p align="center">
 <a href="https://github.com/0x1381/About-Me"><img title="About-Me" src="https://github-readme-stats.vercel.app/api/pin/?username=0x1381&repo=About-Me&theme=midnight-purple"></a>
+<p align="center"><a href="https://github.com/0x1381"></a><img src="https://github.com/0x1381/0x1381/blob/main/IMG/d8f244271a7c56bc9fcb22f80505708c_w200.gif"=alt"bt"/></p>
 
 
 > DATABASE:
@@ -39,6 +40,8 @@ Encrypt me : SSBhbSBEZXZpbA==
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
+
+
 
 > TOOLS :
 
