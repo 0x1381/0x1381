@@ -1,8 +1,10 @@
+<p align="center"><a href="https://github.com/0x1381"></a><img src="https://github.com/0x1381/0x1381/blob/main/IMG/scanningGif.gif"=alt"bt"/></p>
+
 Encrypt me : SSBhbSBEZXZpbA==
- <p align="center">HI I AM AFSHIN ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ <p align="center">HI I AM AFSHIN ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
  <p align="center">WELCOME TO MY PROFILE
 
-<p align="center"><a href="https://github.com/0x1381"><img src="https://github.com/0x1381/0x1381/blob/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif"=alt"bt">
+<p align="center"><a href="https://github.com/0x1381"/></a><img src="https://github.com/0x1381/0x1381/blob/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif"=alt"bt"></p>
 
 <p align="center">tel : +989012942434</p>
 <p align="center">GITHUB STATES :</p>
