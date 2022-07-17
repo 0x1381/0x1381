@@ -1,17 +1,12 @@
-
-<p align="center">HI I AM AFSHIN ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-<p align="center">WELCOME TO MY PROFILE
+Encrypt me : SSBhbSBEZXZpbA==
+ <p align="center">HI I AM AFSHIN ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ <p align="center">WELCOME TO MY PROFILE
 
 <p align="center"><a href="https://github.com/0x1381"><img src="https://github.com/0x1381/0x1381/blob/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif"=alt"bt">
 
 
 <p align="center">MY PROFILE VISITORS :</p>
  
-
-![Visitor Count](https://profile-counter.glitch.me/0x1381/count.svg)
-
-[![GitHub followers](https://img.shields.io/github/followers/0x1381.svg?style=social&label=Follow&maxAge=0098900)](https://github.com/0x1381?tab=followers)
 
 <p align="center">tel : +989012942434</p>
 
