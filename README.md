@@ -4,15 +4,9 @@ Encrypt me : SSBhbSBEZXZpbA==
 
 <p align="center"><a href="https://github.com/0x1381"><img src="https://github.com/0x1381/0x1381/blob/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif"=alt"bt">
 
-
-<p align="center">MY PROFILE VISITORS :</p>
- 
-
 <p align="center">tel : +989012942434</p>
+<p align="center">GITHUB STATES :</p>
 
-> GITHUB STATES :
-
-<a href="https://github.com/naiyan-official"><img width=550 src="https://github-profile-trophy.vercel.app/?username=0x1381&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0x1381&theme=merko)
 
