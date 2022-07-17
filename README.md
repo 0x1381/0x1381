@@ -12,20 +12,7 @@ Encrypt me : SSBhbSBEZXZpbA==
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0x1381&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https:/0x1381/)
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-dark" />
-
-> CONTACT WITH ME :
-
-<p align="left">
-
-<a href="https://twitter.com/0x1381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niloyahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/0x1381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/afshin___ataei/" height="30" width="40" /></a>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/0x1381) <a href="https://github.com/0x1381"></a>
-
-</p>
-
-![](https://img.shields.io/badge/<AFSHIN_V4U>-<0x1381-H4CK3R>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-dark" />![](https://img.shields.io/badge/<AFSHIN_V4U>-<0x1381-H4CK3R>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 ![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
