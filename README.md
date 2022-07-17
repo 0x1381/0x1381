@@ -15,8 +15,7 @@ Encrypt me : SSBhbSBEZXZpbA==
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0x1381&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https:/0x1381/)
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-dark" />![](https://img.shields.io/badge/<AFSHIN_V4U>-<0x1381-H4CK3R>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
-![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
+<p align="center"><a href="https://github.com/0x1381"></a><img src="https://github.com/0x1381/0x1381/blob/main/IMG/NZzo (1).gif"=alt"bt"/></p>
 
 <p align="center">
 <a href="https://github.com/0x1381/Telegram-spammer"><img title="Telegram-spammer" src="https://github-readme-stats.vercel.app/api/pin/?username=0x1381&repo=Telegram-spammer&theme=vision-friendly-dark"></a>
