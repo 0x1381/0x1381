@@ -1,7 +1,7 @@
 
-HI I AM AFSHIN ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align="center">HI I AM AFSHIN ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-WELCOME TO MY PROFILE
+<p align="center">WELCOME TO MY PROFILE
 
 <p align="center"><a href="https://github.com/0x1381"><img src="https://github.com/0x1381/0x1381/blob/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif"=alt"bt">
 
