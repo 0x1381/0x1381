@@ -26,8 +26,6 @@ decrypt me : SSBhbSBEZXZpbA==
 <p align="center">
 <a href="https://github.com/0x1381/Clock-profile-telegram"><img title="Clock-profile-telegram" src="https://github-readme-stats.vercel.app/api/pin/?username=0x1381&repo=Clock-profile-telegram&theme=highcontrast"></a>
 
-<p align="center">
-<a href="https://github.com/0x1381/About-Me"><img title="About-Me" src="https://github-readme-stats.vercel.app/api/pin/?username=0x1381&repo=About-Me&theme=midnight-purple"></a>
 
 
 > DATABASE:
