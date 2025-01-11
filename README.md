@@ -1,6 +1,5 @@
 <p align="center"><a href="https://github.com/0x1381"></a><img src="https://github.com/0x1381/0x1381/blob/main/IMG/scanningGif.gif"=alt"bt"/></p>
 
-decrypt me : SSBhbSBEZXZpbA==
 <p align="center">Tel: +989932207043</p>
  <p align="center">HI I AM AFSHIN ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
  <p align="center">WELCOME TO MY PROFILE
